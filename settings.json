@@ -30,7 +30,9 @@
                 "앨범": true,
                 "이름": "지구",
                 "파서": {
-                    "JSON비디오항목": "videoWithContextRenderer",
+                    "비디오항목1": "videoWithContextRenderer",
+                    "제목항목2": "headline",
+                    "영화구분3": "shortBylineText"
                 }
             }
         },
