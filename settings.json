@@ -2,14 +2,14 @@
     "언어": "모든언어",
     "앱설정": {
         "버전": {
-            "코드": 3,
-            "이름": "1.0.2",
-            "날짜": "2022년 9월 27일 오전 3시",
+            "코드": 7,
+            "이름": "1.0.4",
+            "날짜": "2022년 12월 13일 오전 3시",
             "패키지": "com.seok.mdown",
             "패키지주소": "com.seok.mdown",
             "버전메세지": {
-                "all": "The following has been revised.\n\n1. Fixed an issue with un-downloading some devices.\n2. Voice search support.\n3. Added ringtone function.\n4. Other stabilization.",
-                "ko": "다음 사항이 수정 되었습니다.\n\n1. 일부기기 다운로드 취소 문제 수정.\n2. 음성검색 지원.\n3. 벨소리 기능 추가.\n4. 기타 안정화."
+                "all": "The following fixes have been made:\n\n1. Fixed earth search problem.\n2. Other stabilization tasks.",
+                "ko": "다음 사항이 변경 되었습니다.\n\n1. 지구 검색 문제 해결.\n2. 기타 안정화 작업."
             }
         },
         "리뷰":{
