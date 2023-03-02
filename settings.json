@@ -37,6 +37,11 @@
                     "비디오항목1": "videoWithContextRenderer",
                     "제목항목2": "headline",
                     "영화구분3": "shortBylineText"
+                },
+                "요청": {
+                    "USER-AGENT": "asdasdads",
+                    "API-KEY": "",
+                    "VERSION":""
                 }
             }
         },
