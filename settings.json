@@ -4,12 +4,12 @@
         "버전": {
             "코드": 7,
             "이름": "1.0.4",
-            "날짜": "2022년 12월 13일 오전 3시",
+            "날짜": "2023년 3월 3일 오전 3시",
             "패키지": "com.seok.mdown",
             "패키지주소": "com.seok.mdown",
             "버전메세지": {
-                "all": "The following fixes have been made:\n\n1. Fixed earth search problem.\n2. Other stabilization tasks.",
-                "ko": "다음 사항이 변경 되었습니다.\n\n1. 지구 검색 문제 해결.\n2. 기타 안정화 작업."
+                "all": "The following fixes have been made:\n\n1. Modify download speed.\n2. Other bug fixes.",
+                "ko": "다음 사항이 변경 되었습니다.\n\n1. 다운로드 속도 수정.\n2. 기타 버그 수정."
             }
         },
         "리뷰":{
