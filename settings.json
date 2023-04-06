@@ -25,7 +25,7 @@
                 "사용": true,
                 "이름": "목성",
                 "파서": {
-                    "ApiSearch": "api_search.php"
+                    "URL": "https://new.myfreemp3juices.cc/api/api_search.php?callback="
                 }
             },
             "수성": {
