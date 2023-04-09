@@ -2,14 +2,14 @@
     "언어": "모든언어",
     "앱설정": {
         "버전": {
-            "코드": 9,
-            "이름": "1.0.6",
-            "날짜": "2023년 3월 3일 오전 3시",
+            "코드": 11,
+            "이름": "1.0.7",
+            "날짜": "2023년 4월 6일 오전 3시",
             "패키지": "com.seok.mdown",
             "패키지주소": "com.seok.mdown",
             "버전메세지": {
-                "all": "The following fixes have been made:\n\n1. Modify download speed.\n2. Other bug fixes.",
-                "ko": "다음 사항이 변경 되었습니다.\n\n1. 지구 재생 문제 수정"
+                "all": "The following fixes have been made:\n\n1. Modifying Jupiter Search Loading.",
+                "ko": "다음 사항이 변경 되었습니다.\n\n1. 목성 검색 로딩 관련 수정."
             }
         },
         "리뷰":{
