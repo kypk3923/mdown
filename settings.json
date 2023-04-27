@@ -46,7 +46,7 @@
                     "API-KEY": "",
                     "VERSION":"",
                     "GET_URL":"https://www.youtube.com/youtubei/v1/player?key=AIzaSyA8eiZmM1FaDVjRy-df2KTyQ_vz_yYM39w",
-                    "GET_POST":"{'contentCheckOk': true,'racyCheckOk': true,'videoId': 'r47vGEIu9VI','context': {'client':{'clientName': 'WEB','clientScreen': 'WATCH','clientVersion': '2.20230425.08.00','utcOffsetMinutes':0},'thirdParty':{'embedUrl': 'https://m.youtube.com'}}}"
+                    "GET_POST":"{'contentCheckOk': true,'racyCheckOk': true,'videoId': 'code','context': {'client':{'clientName': 'WEB','clientScreen': 'WATCH','clientVersion': '2.20230425.08.00','utcOffsetMinutes':0},'thirdParty':{'embedUrl': 'https://m.youtube.com'}}}"
                 }
             }
         },
