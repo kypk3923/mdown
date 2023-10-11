@@ -5,8 +5,8 @@
             "코드": 12,
             "이름": "1.0.8",
             "날짜": "2023년 4월 6일 오전 3시",
-            "패키지": "com.seok.mdown",
-            "패키지주소": "com.seok.mdown",
+            "패키지": "com.yeongsoft.ymusic",
+            "패키지주소": "com.yeongsoft.ymusic",
             "버전메세지": {
                 "all": "The following fixes have been made:\n\n1. Fixed an issue with loading earth music.",
                 "ko": "다음 사항이 변경 되었습니다.\n\n1. 지구 음악 로딩 문제 수정."
