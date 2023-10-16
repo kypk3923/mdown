@@ -9,7 +9,7 @@
             "패키지주소": "com.yeongsoft.ymusic",
             "버전메세지": {
                 "all": "The following fixes have been made:\n\n1. Fixed an issue with loading earth music.",
-                "ko": "다음 사항이 변경 되었습니다.\n\n1. 지구 음악 로딩 문제 수정."
+                "ko": "기타 오류 수정"
             }
         },
         "리뷰":{
