@@ -2,8 +2,8 @@
     "언어": "모든언어",
     "앱설정": {
         "버전": {
-            "코드": 13,
-            "이름": "1.0.9",
+            "코드": 14,
+            "이름": "2.2.2",
             "날짜": "2023년 4월 6일 오전 3시",
             "패키지": "com.yeongsoft.ymusic",
             "패키지주소": "com.yeongsoft.ymusic",
@@ -18,11 +18,11 @@
         },
         "페이지뷰": {
             "금성": {
-                "사용": true,
+                "사용": false,
                 "이름": "금성"
             },
             "목성": {
-                "사용": true,
+                "사용": false,
                 "이름": "목성",
                 "파서": {
                     "URL": "https://new.myfreemp3juices.cc/api/api_search.php?callback="
