@@ -2,14 +2,14 @@
     "언어": "모든언어",
     "앱설정": {
         "버전": {
-            "코드": 14,
-            "이름": "2.2.2",
+            "코드": 16,
+            "이름": "3.3.3",
             "날짜": "2023년 4월 6일 오전 3시",
-            "패키지": "com.yeongsoft.ymusic",
-            "패키지주소": "com.yeongsoft.ymusic",
+            "패키지": "com.goodmusic.music",
+            "패키지주소": "com.goodmusic.music",
             "버전메세지": {
                 "all": "The following fixes have been made:\n\n1. Fixed an issue with loading earth music.",
-                "ko": "기타 오류 수정"
+                "ko": "이 버전은 더 이상 사용할 수 없습니다."
             }
         },
         "리뷰":{
